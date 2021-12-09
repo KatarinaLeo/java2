@@ -1,3 +1,5 @@
+// @author Loeinskaya Ekaterina
+
 package java2lesson3;
 import java.util.*;
 
