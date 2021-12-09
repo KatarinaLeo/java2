@@ -1,8 +1,5 @@
 package java2lesson4;
 
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
-import java2lesson3.Fifth;
-
 import java.util.ArrayList;
 import java.util.List;
 
